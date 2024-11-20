@@ -1,0 +1,2 @@
+This is sample text file.
+The content will be automatically generated with the following properties in the sample file that will be generated.
